@@ -8,7 +8,7 @@ A professional **MERN Stack** application developed for a real-world client to s
 | :--- | :--- | :--- |
 | **IT24100383** | Wickramarathna W.M.G.C | **Scrum Master** |
 | **IT24102542** | Ramayaka O.R | **Product Owner** |
-| **IT24102864** | Wadippuli Arachchige D.R(Dinethmi) | Team Member |
+| **IT24102864** | Wadippuli Arachchige D.R (Dinethmi) | Team Member |
 | **IT24200736** | Madawaththa K.G.W.V | Team Member |
 | **IT24103657** | Sathsarani W.A.N.P | Team Member |
 | **IT24102986** | Nimesha W.D.M | Team Member |
